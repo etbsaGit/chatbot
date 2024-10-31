@@ -1,0 +1,143 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214616793987@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB1A743615C21F660DD',
+    participant: undefined
+  },
+  messageTimestamp: 1730413991,
+  pushName: 'Cesar Aguayo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5214616793987'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f40039ee-4bf6-4740-a0c1-b3b9f357ebf6',
+  keyword: 'key_168ecb2e-bced-43bb-81bf-5b5989913d03',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6a450b47ac3fe0e751b4f911cb5c1022'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2dad366a-9946-46de-8322-957d6fcc6f1b',
+  keyword: 'ans_f40039ee-4bf6-4740-a0c1-b3b9f357ebf6',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1ad0f86ff823fc98d2302e2041cf9c02'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214616793987@s.whatsapp.net',
+    fromMe: false,
+    id: '3FD69E09A293F5F49427',
+    participant: undefined
+  },
+  messageTimestamp: 1730413997,
+  pushName: 'Cesar Aguayo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'doc', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '5214616793987'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bcb4c544-b4bc-41ab-8fd1-b0c52d071d2c',
+  keyword: 'key_1e5cd518-8778-4ecd-b1e7-596c3397924f',
+  answer: '📄 Aquí encontras las documentación recuerda que puedes mejorarla\n' +
+    'https://bot-whatsapp.netlify.app/\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'df0b52563770336c1ea672e6309ff084'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214616793987@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB11B8777F50E5DB619',
+    participant: undefined
+  },
+  messageTimestamp: 1730414001,
+  pushName: 'Cesar Aguayo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5214616793987'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f35c5a6a-7e39-42e4-981f-70852bee625a',
+  keyword: 'key_eda8891c-bfcc-4cb0-891e-0904eb1a64c2',
+  answer: '📄 Aquí tenemos el flujo secundario',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7ec3195cc4c084e77c5705d534cb35e5'
+}
